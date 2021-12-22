@@ -1,0 +1,20 @@
+.wrapper {
+	padding: 50px;
+	text-align: center;
+}
+
+.card {
+}
+
+.inpt {
+	width: 500px;
+	display: block;
+	margin: 0 auto 20px;
+}
+
+.image {
+	max-width: 500px;
+	flex-grow: 0;
+	display: block;
+   margin: 0 auto; 
+}
